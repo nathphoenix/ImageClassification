@@ -1,5 +1,7 @@
-This is a image classification project with a front for interraction.
-Didin't have have time to work much on the frontend/
+IMAGE CLASSIFICATION
 
-PLEASE downloaf the model from resnet, and if you have any issue please get in touch, i will be happy to help.
+This is a image classification api project with a frontend for interraction.
+Don't have have time to work much on the frontend.
+
+PLEASE download the model from resnet, and if you have any issue please get in touch, i will be happy to help.
 Thank you
