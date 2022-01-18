@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.vscode
+*.ipynb_checkpoints
+
+model_resnet50.h5
+
+# C extensions
+*.so
+*.ipynb_checkpoints
+*.ipynb
+*crontab
+*note.txt
+*.json
+nath_tb
+
+
+#Folders
+blog_details
+.cache
